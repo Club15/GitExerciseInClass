@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Shooting star <3
-=======
 Hooter
->>>>>>> bee0f856f9f9127c77310f6fce35717f77b9170b
 Lion King
 Jurassic Park
 American Beauty
